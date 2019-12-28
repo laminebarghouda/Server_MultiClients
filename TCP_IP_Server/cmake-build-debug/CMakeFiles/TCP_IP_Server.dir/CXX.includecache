@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lamin/CLionProjects/TCP_IP_Server/main.cpp
+iostream
+-
+WS2tcpip.h
+-
+winsock2.h
+-
+string
+-
+sstream
+-
+
